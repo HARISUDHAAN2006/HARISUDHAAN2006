@@ -1,8 +1,9 @@
-# 👋 Hello, I'm **Harisudhaan Sundaraselvan**
+# Hi there 👋, I'm S HARISUDHAAN
 
-### 🎓 Data Science Student | Aspiring Machine Learning Engineer | Python Developer
-
-> *"Learning every day. Building one project at a time."*
+### 🎓 Data Science Undergraduate
+### 💻 Python Developer
+### 🤖 Aspiring Machine Learning Engineer
+### 📊 Passionate about Data Science, AI & Problem Solving
 
 ---
 
