@@ -155,11 +155,14 @@ I enjoy learning concepts from the ground up, understanding how things work inte
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect with Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: *(Add your LinkedIn profile here)*
-* Email: *(Add your professional email here)*
+<p align="left">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harisudhaan-sundaraselvan-5026b8352/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harisudhaan2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/S_HARISUDHAAN/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+</p>
 
 ---
 
