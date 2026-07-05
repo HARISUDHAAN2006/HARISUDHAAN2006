@@ -1,186 +1,218 @@
-# Hi there 👋, I'm S HARISUDHAAN
+<!-- ============================================================ -->
+<!--  Replace every "YOUR_USERNAME" below with your GitHub handle  -->
+<!-- ============================================================ -->
 
-### 🎓 Data Science Undergraduate
-### 💻 Python Developer
-### 🤖 Aspiring Machine Learning Engineer
-### 📊 Passionate about Data Science, AI & Problem Solving
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=220&section=header&text=Hi%20There!%20I'm%20Harisudhaan%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Python%20%7C%20Aspiring%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C9A7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Third-Year+Data+Science+Engineering+Student;Python+Developer+%7C+Aspiring+ML+Engineer;Turning+Data+into+Decisions%2C+Code+into+Solutions" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/harisudhaan-sundaraselvan-5026b8352/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harisudhaan2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/S_HARISUDHAAN/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-I'm a third-year **Data Science Engineering** student passionate about solving problems using data, programming, and Artificial Intelligence.
+```yaml
+name: S. Harisudhaan
+role: Data Science Undergraduate (3rd Year)
+focus: [Python, Machine Learning, Data Analysis, DSA, Business Intelligence]
+goal: Become a highly skilled Machine Learning Engineer
+philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
+```
 
-Currently, I'm focused on strengthening my foundations in:
+- 🎓 Third-year **Data Science Engineering** student
+- 🤖 Aspiring **Machine Learning Engineer** building intelligent, real-world applications
+- 📊 Passionate about **AI, Data Analysis & Problem Solving**
+- 🌱 Deep-diving into **Deep Learning** and advanced **DSA**
+- 🇮🇳 Proud of India's culture and traditions
 
-* 🐍 Python
-* 🤖 Machine Learning
-* 📊 Data Analysis
-* 🧠 Data Structures & Algorithms
-* 📈 Business Intelligence
-* 💻 Software Development
+<br/>
 
-My long-term goal is to become a highly skilled **Machine Learning Engineer** and build intelligent applications that solve real-world problems.
+## 🛠️ Tech Stack
 
----
-
-# 🛠️ Tech Stack
+<div align="center">
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Data Science & ML
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-### Data Science
+### BI & Visualization
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
 
-### Tools
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br/>
 
-### BI Tools
+## 📊 GitHub Stats
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-# 📚 Currently Learning
+<div align="center">
 
-* Scikit-Learn
-* Machine Learning
-* Advanced Data Structures & Algorithms
-* LeetCode Problem Solving
-* System Design Basics
-* Business Intelligence
-* Tableau
-* Power BI
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-# 🎯 Current Goals (2026)
+</div>
 
-✅ Master Python
+<br/>
 
-✅ Master Data Structures & Algorithms
+## 🏆 GitHub Trophies
 
-✅ Solve 500+ LeetCode Problems
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</div>
 
-✅ Build End-to-End Machine Learning Projects
+<br/>
 
-✅ Learn Deep Learning
+## 📈 Contribution Graph
 
-✅ Crack Top Product-Based Company Placements
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</div>
 
----
+<br/>
 
-# 📂 Featured Projects
+## 🐍 Contribution Snake
 
-### 📊 Data Analysis Projects
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
-* Exploratory Data Analysis using Pandas
-* Data Cleaning Pipelines
-* Visualization Dashboards
+> ℹ️ To enable this animation, add the `github/snk` GitHub Action to your profile repo — it auto-generates the snake SVG from your contribution graph.
 
----
+<br/>
 
-### 🤖 Machine Learning Projects
+## 🎯 2026 Goals
 
-* (Coming Soon)
-* House Price Prediction
-* Student Performance Prediction
-* Spam Email Detection
-* Customer Segmentation
+<div align="center">
 
----
+| Goal | Status |
+|---|:---:|
+| Master Python | ✅ |
+| Master Data Structures & Algorithms | ✅ |
+| Solve 500+ LeetCode Problems | 🔄 |
+| Build End-to-End ML Projects | 🔄 |
+| Learn Deep Learning | 🔄 |
+| Crack Top Product-Based Company Placement | 🎯 |
 
-### 💻 Python Projects
+</div>
 
-* GUI Applications using Tkinter
-* File Handling Projects
-* Automation Scripts
+<br/>
 
----
+## 📂 Featured Projects
 
-### ☕ Java Projects
+<div align="center">
 
-* Object-Oriented Programming
-* Linked List Implementations
-* Stack and Queue Implementations
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=house-price-prediction&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=student-performance-prediction&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=spam-email-detection&theme=tokyonight&hide_border=true"/></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=customer-segmentation&theme=tokyonight&hide_border=true"/></a>
 
----
+</div>
 
-# 🏆 Problem Solving
+> 📌 Pin your repos on GitHub, then swap the `repo=` values above with your actual repository names — they render as live cards.
 
-I actively practice coding to improve my problem-solving skills.
+<details>
+<summary>📊 Data Analysis Projects</summary>
+<br/>
 
-Topics include:
+- Exploratory Data Analysis using Pandas
+- Data Cleaning Pipelines
+- Visualization Dashboards (Tableau & Power BI)
 
-* Arrays
-* Strings
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Graphs
-* Dynamic Programming
-* Bit Manipulation
+</details>
 
----
+<details>
+<summary>🤖 Machine Learning Projects</summary>
+<br/>
 
-# 📈 GitHub Stats
+- House Price Prediction
+- Student Performance Prediction
+- Spam Email Detection
+- Customer Segmentation
 
-<p align="center">
+</details>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<details>
+<summary>💻 Python & ☕ Java Projects</summary>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+- GUI Applications using Tkinter
+- File Handling & Automation Scripts
+- OOP, Linked List, Stack & Queue Implementations in Java
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</details>
 
-</p>
+<br/>
 
----
+## 🏅 Problem Solving
 
-# 🌱 Learning Philosophy
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/S_HARISUDHAAN?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
+</div>
 
-> "I believe strong fundamentals create exceptional engineers."
+**Topics practiced:** Arrays · Strings · Linked Lists · Stacks · Queues · Trees · Graphs · Dynamic Programming · Bit Manipulation
+
+<br/>
+
+## 🌱 Learning Philosophy
+
+<div align="center">
+
+> *"I believe strong fundamentals create exceptional engineers."*
 
 I enjoy learning concepts from the ground up, understanding how things work internally, and applying that knowledge by building practical projects.
 
----
+</div>
 
-## 🌐 Connect with Me
+<br/>
 
-<p align="left">
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/harisudhaan-sundaraselvan-5026b8352/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:harisudhaan2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/S_HARISUDHAAN/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>
+## 💡 Fun Facts
 
----
+- 📖 I love reading books and continuously learning new technologies
+- 🧩 I enjoy solving coding problems
+- 📊 I love exploring data to uncover meaningful insights
+- 🇮🇳 I admire India's rich culture and traditions
 
-# 💡 Fun Facts
+<br/>
 
-* 📖 I love reading books and continuously learning new technologies.
-* 🧩 I enjoy solving coding problems.
-* 📊 I love exploring data to uncover meaningful insights.
-* 🇮🇳 I admire India's rich culture and traditions.
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=120&section=footer"/>
 
-# ⭐ Motto
+### ⭐ *"Consistency beats intensity. Learn, Build, Improve, Repeat."*
 
-> **"Consistency beats intensity. Learn, Build, Improve, Repeat."**
+**Thank you for visiting my profile — if you like my work, drop a ⭐ on my repos!**
 
----
-
-⭐ Thank you for visiting my profile!
-
-If you like my projects, feel free to **Star ⭐** them and follow my journey!
+</div>
