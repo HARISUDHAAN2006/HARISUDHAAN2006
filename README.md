@@ -2,8 +2,7 @@
 <!--   S. HARISUDHAAN — GitHub Profile README (Ultra Graphics)     -->
 <!-- ============================================================ -->
 
-
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=280&section=header&text=Hi%20There!%20I'm%20Harisudhaan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20in%20the%20Making%20%7C%20Python%20%7C%20Aspiring%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
@@ -43,11 +42,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0077B5,100:00C9A7&height=2&width=1000"/>
 </div>
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="900">
-</p>
-<div align="center">
 
 ## 🚀 About Me
 
