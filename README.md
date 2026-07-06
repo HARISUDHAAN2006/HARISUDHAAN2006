@@ -1,7 +1,13 @@
 <!-- ============================================================ -->
 <!--   S. HARISUDHAAN — GitHub Profile README (Ultra Graphics)     -->
 <!-- ============================================================ -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4A0404,50:8B0000,100:FFD700&text=HARISUDHAAN&fontColor=FFD700&fontSize=55&animation=fadeIn"/>
+</p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="900">
+</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12,18,24&height=280&section=header&text=Hi%20There!%20I'm%20Harisudhaan%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20in%20the%20Making%20%7C%20Python%20%7C%20Aspiring%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
