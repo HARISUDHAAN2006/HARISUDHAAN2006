@@ -57,7 +57,6 @@ philosophy: "Consistency beats intensity. Learn, Build, Improve, Repeat."
 - 🤖 Aspiring **Machine Learning Engineer** building intelligent, real-world applications
 - 📊 Passionate about **AI, Data Analysis & Problem Solving**
 - 🌱 Deep-diving into **Deep Learning** and advanced **DSA**
-- 🇮🇳 Proud of India's culture and traditions
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0077B5&height=2&width=1000"/>
@@ -303,13 +302,6 @@ I enjoy learning concepts from the ground up, understanding how things work inte
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0077B5&height=2&width=1000"/>
 </div>
-
-## 💡 Fun Facts
-
-- 📖 I love reading books and continuously learning new technologies
-- 🧩 I enjoy solving coding problems
-- 📊 I love exploring data to uncover meaningful insights
-- 🇮🇳 I admire India's rich culture and traditions
 
 <br/>
 
